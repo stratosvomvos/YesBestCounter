@@ -7,5 +7,5 @@
  ## Built With - **Python** and  the **Discord API** 
   Why?
 
- Just because I can.
+ yes.
   
